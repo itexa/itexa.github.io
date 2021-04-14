@@ -1,1 +1,0 @@
-cp.model['Pool1Data']={};cp.model.data['Pool1']={pqs:[],gqs:[],sqs:[],rgqs:[],rsqs:[]};cp.poolResources["Pool1Images"]=[];cp.poolResources["Pool1Videos"]=[];cp.poolResources["Pool1SlideVideos"]=[];
